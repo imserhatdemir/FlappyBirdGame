@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gamebird", "gamebird\gamebird.csproj", "{4EE7478F-C654-44F4-88F0-CEFB50AD2E1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "image", "image", "{DD302E98-1E1F-4B9B-8C4D-AACE599C5B93}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\485bird1_100214.ico = ..\..\..\Downloads\485bird1_100214.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE7478F-C654-44F4-88F0-CEFB50AD2E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE7478F-C654-44F4-88F0-CEFB50AD2E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE7478F-C654-44F4-88F0-CEFB50AD2E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE7478F-C654-44F4-88F0-CEFB50AD2E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D5EAEF-5A73-4E07-A359-C5F0849D0AD9}
+	EndGlobalSection
+EndGlobal
